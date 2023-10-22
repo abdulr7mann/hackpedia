@@ -12,3 +12,8 @@ python3 -m pip install -r requirment.txt
 ```bash
 streamlit run app.py
 ```
+
+![image](https://github.com/abdulr7mann/hackpedia/assets/51442494/b1c6e712-f64b-4351-a672-21cb05cf0bb1)
+
+![image](https://github.com/abdulr7mann/hackpedia/assets/51442494/9f89d68b-47ab-4a5a-995b-bf829adca95d)
+

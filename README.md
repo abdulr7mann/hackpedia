@@ -15,5 +15,7 @@ streamlit run app.py
 
 ![image](https://github.com/abdulr7mann/hackpedia/assets/51442494/b1c6e712-f64b-4351-a672-21cb05cf0bb1)
 
+![image](https://github.com/abdulr7mann/hackpedia/assets/51442494/2590be0a-6f63-47cf-86da-aee7f7a7f128)
+
 ![image](https://github.com/abdulr7mann/hackpedia/assets/51442494/9f89d68b-47ab-4a5a-995b-bf829adca95d)
 
